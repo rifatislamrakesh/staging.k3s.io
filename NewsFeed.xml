@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Global Sports</title>
+	<atom:link href="https://shebokproperties.com/NewsFeed.xml" rel="self" type="application/rss+xml" />
+	<link>https://shebokproperties.com/NewsFeed.xml</link>
+	<description>Global Sports</description>
+	<lastBuildDate>Thu, 26 Oct 2023 10:46:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://shebokproperties.com/wp-content/uploads/2023/10/cropped-cropped-R-32x32.jpeg</url>
+	<title>Global Sports</title>
+	<link>https://shebokproperties.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<item><title>	Live Sports HD 1	</title><link>	https://github.com/apps/rizin-45-live	</link><description>&lt;div class=&quot;field field-name-field-date field-type-datetime field-label-above;/div&gt;</description>	<dc:creator>wolf</dc:creator>	<guid isPermaLink="false">13584 at 	https://github.com/apps/rizin-45-live	</guid></item>
+<item><title>	Live Sports HD 2	</title><link>	https://github.com/apps/rizin-45-live-today	</link><description>&lt;div class=&quot;field field-name-field-date field-type-datetime field-label-above;/div&gt;</description>	<dc:creator>wolf</dc:creator>	<guid isPermaLink="false">13584 at 	https://github.com/apps/rizin-45-live-today	</guid></item>
+<item><title>	Live Sports HD 3	</title><link>	https://github.com/apps/rizin-45-live-streaming	</link><description>&lt;div class=&quot;field field-name-field-date field-type-datetime field-label-above;/div&gt;</description>	<dc:creator>wolf</dc:creator>	<guid isPermaLink="false">13584 at 	https://github.com/apps/rizin-45-live-streaming	</guid></item>
+<item><title>	Live Sports HD 4	</title><link>	https://github.com/apps/rizin-45-today	</link><description>&lt;div class=&quot;field field-name-field-date field-type-datetime field-label-above;/div&gt;</description>	<dc:creator>wolf</dc:creator>	<guid isPermaLink="false">13584 at 	https://github.com/apps/rizin-45-today	</guid></item>
+<item><title>	Live Sports HD 5	</title><link>	https://github.com/apps/rizin-45-today-match	</link><description>&lt;div class=&quot;field field-name-field-date field-type-datetime field-label-above;/div&gt;</description>	<dc:creator>wolf</dc:creator>	<guid isPermaLink="false">13584 at 	https://github.com/apps/rizin-45-today-match	</guid></item>
+<item><title>	Live Sports HD 6	</title><link>	https://github.com/apps/rizin-45-watch	</link><description>&lt;div class=&quot;field field-name-field-date field-type-datetime field-label-above;/div&gt;</description>	<dc:creator>wolf</dc:creator>	<guid isPermaLink="false">13584 at 	https://github.com/apps/rizin-45-watch	</guid></item>
+<item><title>	Live Sports HD 7	</title><link>	https://github.com/apps/rizin-45-watch-live	</link><description>&lt;div class=&quot;field field-name-field-date field-type-datetime field-label-above;/div&gt;</description>	<dc:creator>wolf</dc:creator>	<guid isPermaLink="false">13584 at 	https://github.com/apps/rizin-45-watch-live	</guid></item>
+<item><title>	Live Sports HD 8	</title><link>	https://github.com/apps/watch-rizin-45-match	</link><description>&lt;div class=&quot;field field-name-field-date field-type-datetime field-label-above;/div&gt;</description>	<dc:creator>wolf</dc:creator>	<guid isPermaLink="false">13584 at 	https://github.com/apps/watch-rizin-45-match	</guid></item>
+<item><title>	Live Sports HD 9	</title><link>	https://github.com/apps/rizin45	</link><description>&lt;div class=&quot;field field-name-field-date field-type-datetime field-label-above;/div&gt;</description>	<dc:creator>wolf</dc:creator>	<guid isPermaLink="false">13584 at 	https://github.com/apps/rizin45	</guid></item>
+</channel>
+</rss>
